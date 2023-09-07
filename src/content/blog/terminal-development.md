@@ -28,7 +28,7 @@ Developing a terminal-like website using ReactJS, TypeScript and Styled-Componen
 
 Recently, I've developed and published my portfolio + a blog. I’m glad I got some good feedback for it. Today, I want to introduce my new terminal-like portfolio website. It is developed using ReactJS, TypeScript. I got this idea from CodePen and YouTube.
 
-## Tech Stack
+## Tech Stack FUN THINGS I LOVE
 
 This project is a frontend project without any backend codes. The UI/UX part is designed in Figma. For the frontend user-interface, I chose React over pain JavaScript and NextJS. Why?
 

@@ -8,6 +8,4 @@ draft: false
 description:
   How this website is being run.
 ---
-
-# testing
 Hello, this is my first post!
